@@ -1,0 +1,10 @@
+Metadata-Version: 1.2
+Name: mobile-cv
+Version: 0.1
+Summary: FBNet model builder and model zoo
+Home-page: https://github.com/facebookresearch/mobile-vision
+Author: Mobile Vision
+License: CC BY-NC
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.6
